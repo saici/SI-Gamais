@@ -1,0 +1,1 @@
+Folder docs berisi dokumentasi dari development
